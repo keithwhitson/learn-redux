@@ -1,0 +1,44 @@
+nvm use 14.18.0
+ 1987  npx create-react-app redux-practice
+ 1988  npm start
+ 1989  node -v
+ 1990  nvm use 14.18.0
+ 1991  npm start
+ 1992  npm install redux@next react-redux@next
+ 1993  npm start
+ 1994  cd ..
+ 1995  nvm use 14.18.0
+ 1996  npx create-react-app redux-beginner
+ 1997  cd redux-beginner
+ 1998  cd
+ 1999  cd repos/
+ 2000  mkdir learn-redux
+ 2001  cd learn-redux
+ 2002  echo "# learn-redux" >> README.md
+ 2003  git init
+ 2004  git add README.md
+ 2005  git commit -m "first commit"
+ 2006  git branch -M main
+ 2007  git remote add origin https://github.com/keithwhitson/learn-redux.git
+ 2008  git push -u origin main
+ 2009  git status
+ 2010  npx create-react-app .
+ 2011  nvm use 14.18.0
+ 2012  npx create-react-app .
+ 2013  git status
+ 2014  git add README.
+ 2015  git add README.md 
+ 2016  git add package.json
+ 2017  git add src/
+ 2018  git status
+ 2019  ls public/
+ 2020  git add public/
+ 2021  git status
+ 2022  git add .gitignore 
+ 2023  git status
+ 2024  git commit -m "second commit"
+ 2025  got üisj
+ 2026  git push
+ 2027  history
+
+npm install redux react-redux
